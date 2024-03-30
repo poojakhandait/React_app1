@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: none;
+  }
+  .con{
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+    padding: 20px 0px;
+  }
+  .prod{
+    width: 35%;
+    padding: 10px;
+    background-color:cadetblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    border: 2px outset grey;
+  }
+  img{
+    width: 70px;
+    height: 70px;
+  
+  
+  }
+  .img img{
+    width: 100%;
+    height: 100%;
+  }
